@@ -35,9 +35,3 @@ DELETE /sign_out
 DELETE /users
     curl -X DELETE http://web-XXXXXXXXX.docode.YYYY.qwasar.io/users -b cookies.txt -c cookies.txt
 ```
-
-### The Core Team
-
-
-<span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
-<span><img alt='Qwasar SV -- Software Engineering School's Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px' /></span>
